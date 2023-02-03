@@ -1,0 +1,10 @@
+{
+    "name": "itsuki-n22/helloworld",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ItsukiN22\\Helloworld\\": "src/"
+        }
+    },
+    "require": {}
+}
